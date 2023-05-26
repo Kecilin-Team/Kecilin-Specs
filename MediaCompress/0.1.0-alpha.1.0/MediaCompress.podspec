@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kecilin-Team' => 'kecilin.developer@gmail.com' }
-  s.source           = { :http => 'https://drive.google.com/uc?export=download&id=1eORuPsPAHDJ_OWUYTkrsub2vZ7PQIHJ_' }
+  s.source           = { :http => 'https://github.com/Kecilin-Team/Kecilin-Specs/releases/download/0.0.1-alpha.1.0/MediaCompressSDKProduction.xcframework.zip' }
   # change to 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.vendored_framework = "MediaCompressSDKProduction.xcframework"
