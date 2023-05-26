@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-                       s.homepage         = 'https://github.com/chirikualii/MediaCompress'
+  s.homepage         = 'https://github.com/chirikualii/MediaCompress'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kecilin-Team' => 'kecilin.developer@gmail.com' }
-  s.source           = { :http => 'https://github.com/Kecilin-Team/Kecilin-Specs/releases/download/0.0.1-alpha.1.0/MediaCompressSDKProduction.xcframework.zip' }
+  s.source           = { :http => 'https://gitlab.com/kecilin-id/kecilin-mediacompress-ios-file/uploads/b9332b2a3214f2fe9a892c2332d6be1e/KecilinMediaCompress.xcframework.zip' }
   # change to 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  s.vendored_framework = "MediaCompressSDKProduction.xcframework"
+  s.vendored_framework = "KecilinMediaCompress.xcframework"
   s.ios.deployment_target = '11.0'
   s.swift_version = '5.0'
 
